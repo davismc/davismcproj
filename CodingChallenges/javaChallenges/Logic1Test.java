@@ -1,4 +1,4 @@
-package com.github.davismc.davismcproj.codingchallenges;
+package javaChallenges;
 
 import static org.junit.Assert.*;
 
