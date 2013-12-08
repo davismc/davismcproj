@@ -15,7 +15,7 @@ import java.util.Set;
 
 public class LinkedList {
 
-	public class Node {
+	public static class Node {
 		private int mValue;
 		private Node mNext;
 		
